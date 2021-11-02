@@ -1,4 +1,4 @@
-### Hi there, I'm Zenlerk from [ZspaceServers] 👋
+### Hi there, I'm Zenlerk
 
 ## I'm a Developer, Investor, YouTuber, Streamer and a Gamer.
 
