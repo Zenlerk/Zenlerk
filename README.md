@@ -1,7 +1,5 @@
 ### Hi there, I'm Zenlerk from [ZspaceServers] 👋
 
-[![ZspaceServers](https://i.imgur.com/dZE7B6n.png)](https://ZspaceServers.com)
-
 ## I'm a Developer, Investor, YouTuber, Streamer and a Gamer.
 
 - 🌱 I’m currently learning Operating Systems, HTML and Javascript.
